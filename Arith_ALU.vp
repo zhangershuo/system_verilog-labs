@@ -25,4 +25,4 @@ module Arith_ALU ( clock, reset, enable, aluin1, aluin2,
     Quw><=7D"F?XO#:Ke!1pXmQ[ZzO]\;CLN1VYJb}2QU]XE1WUGlMpa,OB3H3BCkm]/CW-?Y[,$_[
 `endprotected
 
-endmodule 
+endmodule  
