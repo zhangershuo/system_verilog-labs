@@ -32,4 +32,4 @@
 `define     LOADHALFU          	3'b101
 `define     LOADWORD           	3'b011
 
-
+ 
