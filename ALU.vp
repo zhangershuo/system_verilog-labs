@@ -1,4 +1,4 @@
-`include "data_defs.v"
+`include "data_defs.v" 
 module ALU  (   	clock, reset, aluin1, aluin2, opselect, operation, 
 					enable_arith, enable_shift, 
                     shift_number, aluout, carry
